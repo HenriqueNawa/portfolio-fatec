@@ -5,8 +5,22 @@
 Me chamo Henrique Nawa, sou estudante na Fatec de São José dos Campos-SP cursando Análise e Desenvolvimento de Sistemas. Atualmente, trabalho com suporte de Sistema ERP utilizando Java e Javascript.
 ## Meus Projetos
 
-### Em 2019-2
-Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
+### 1º Semestre 
+Sistema de monitoramento e controle para cultivo de plantas, sendo desenvolvido um aplicativo para monitorar a temperatura, umidade do ar, do nível de água no reservatório e controle de luz e irrigação.
+
+[Projeto 1ºSemestre](https://www.google.com)
+
+### 2º Semestre 
+Sistema para demonstar 
+
+### 3º Semestre 
+Sistema de monitoramento e controle para cultivo de plantas, sendo desenvolvido um aplicativo para monitorar a temperatura, umidade do ar, do nível de água no reservatório e controle de luz e irrigação.
+
+### 4º Semestre 
+Sistema de monitoramento e controle para cultivo de plantas, sendo desenvolvido um aplicativo para monitorar a temperatura, umidade do ar, do nível de água no reservatório e controle de luz e irrigação.
+
+### 5º Semestre 
+Sistema de monitoramento e controle para cultivo de plantas, sendo desenvolvido um aplicativo para monitorar a temperatura, umidade do ar, do nível de água no reservatório e controle de luz e irrigação.
 
 [GIT](https://www.google.com)
 
