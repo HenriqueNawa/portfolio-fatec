@@ -27,7 +27,9 @@ Neste projeto, atuei na montagem dos circuitos eletrônicos e na programação d
 
 #### Hard Skills
 Montagem de circuitos eletrônicos - Sei fazer com autonomia<br>
-Programação Arduino - Sei fazer com ajuda
+Programação Arduino - Sei fazer com auxílio<br>
+Desenvolvimento do aplicativo por meio do Appinventor - Sei fazer com auxílio<br>
+Montagem da infraestrutura do projeto - Sei fazer com auxílio
 
 #### Soft Skills
 Organização das entregas, gerenciamento de tempo e comunicação com a equipe.
