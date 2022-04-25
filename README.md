@@ -10,6 +10,11 @@ Sistema de monitoramento e controle para cultivo de plantas, sendo desenvolvido 
 
 [Ardugrow](https://github.com/HenriqueNawa/portfolio-fatec/blob/main/1semestre/README.md)
 
+### 2º Semestre 
+Projeto em parceria com o SPC Brasil para a utilização dos dados no cenário da implantação do Cadastro Positivo, para gerar informações por estado e mostrar o perfil de potenciais bons clientes com foco nos bancos digitais.
+
+[2º Semestre]()
+
 
 ## Meus Principais Conhecimentos
 - Java
