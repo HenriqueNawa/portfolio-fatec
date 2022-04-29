@@ -15,6 +15,11 @@ Projeto em parceria com o SPC Brasil para a utilização dos dados no cenário d
 
 [2º Semestre](https://github.com/HenriqueNawa/portfolio-fatec/blob/main/2semestre.md)
 
+### 3º Semestre 
+Projeto em parceria com a Visiona Tecnologia Espacial para auxiliar os analistas GIS na manipulação de dados georreferenciados.
+
+[JumboETL](https://github.com/HenriqueNawa/portfolio-fatec/blob/main/3semestre.md)
+
 
 ## Meus Principais Conhecimentos
 - Java
