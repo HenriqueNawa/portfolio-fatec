@@ -33,3 +33,20 @@ Neste projeto, atuei no Back-end do sistema e na análise e tratamento dos dados
 
 #### Soft Skills
 Organização das entregas, gerenciamento de tempo e comunicação com a equipe.
+
+#### Gráficos gerados no projeto
+- Faixa etária x Pagamento em dia<br>
+<p align="center">
+<img src="https://github.com/HenriqueNawa/Projeto-SPC-Brasil-Fatec-2020/blob/master/Sprint%206/Imagens/clientes_faixa_idade.png" width="450">
+ </p>
+
+- Indicador de Pontualidade por Região do Brasil<br>
+<p align="center">
+<img src="https://github.com/HenriqueNawa/Projeto-SPC-Brasil-Fatec-2020/blob/master/Sprint%206/Imagens/indicador-pontualidade.png" width="450">
+ </p>
+ 
+ - Distribuição de clientes por estados
+ <p align="center">
+ <img src="https://github.com/HenriqueNawa/Projeto-SPC-Brasil-Fatec-2020/blob/master/Sprint%206/Imagens/distribuicao_clientes.png" width="450">
+ </p>
+
