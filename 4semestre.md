@@ -4,21 +4,22 @@ Projeto em parceria com a IACIT, o projeto tem o intuito de facilitar na criaç�
 
 #### Lista de Requisitos
 
-- Requisitos Funcionais
+Requisitos Funcionais
  - Sistema de Login
  - Cadastro de Usuários com diferentes perfis de acesso
  - Geração, edição, monitoramento e revisão de atas
  - Assinatura Digital nas atas  
 
-- Requisitos Não Funcionais 
-  - Documentação
-  - Testes das funcionalidades
-  - Usual em dispositivos móveis
+Requisitos Não Funcionais 
+ - Documentação
+ - Testes das funcionalidades
+ - Usual em dispositivos móveis
 
 #### Tecnologias Utilizadas
 
 
 #### Contribuições Pessoais
+Neste projeto, auxiliei no desenvolvimento front-end na criação da listagem de atas com paginação, utilização do axios para realização das requisições, 
 
 #### Hard Skills
 
