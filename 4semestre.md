@@ -1,6 +1,10 @@
 ## Sobre o projeto
 
-Projeto em parceria com a IACIT, o projeto tem o intuito de facilitar na criação de atas de forma online com as funcionalidades de cadastro, controle de acesso geração e monitoramento de ata de reunião com assinatura digital.
+<p align="center">
+ <img src='https://i.imgur.com/Zn4ICGa.png' width="300"> </p>
+
+
+Projeto em parceria com a IACIT, o projeto tem o intuito de facilitar na criação de atas de forma online com as funcionalidades de cadastro, controle de acesso, geração e monitoramento da ata de reunião com assinatura digital.
 
 #### Lista de Requisitos
 
@@ -16,13 +20,20 @@ Requisitos Não Funcionais
  - Usual em dispositivos móveis
 
 #### Tecnologias Utilizadas
-
+- Java e Spring - utilizado para o desenvolvimento da estrutura de back-end do projeto
+- HTML, CSS e Javascript - utilizado para a criação do design das interfaces
+- React - utilizado para criar as interfaces de usuário (homepage, ata, listagem de usuários)
+- MySQL - para armazenas as informações de usuários e as atas cadastradas
 
 #### Contribuições Pessoais
-Neste projeto, auxiliei no desenvolvimento front-end na criação da listagem de atas com paginação, utilização do axios para realização das requisições, 
+Neste projeto, auxiliei no desenvolvimento front-end na criação da listagem de atas com paginação, utilização do axios para realização das requisições. E no auxílio do gerenciamento das informações no Banco de Dados. 
 
 #### Hard Skills
+- Criação de interfaces de usuários com React - sei fazer com ajuda
+- Requisições por meio do axios - sei fazer com ajuda
+- Gerenciamento do banco de dados - sei fazer com autonomia
 
 #### Soft Skills
+No decorrer do projeto, pude me desenvolver na parte de gerenciamento de tempo para que minhas entregas fossem realizadas no prazo, na adaptabilidade para auxiliar em outras partes do projeto que não tinha tanto conhecimento e na solução de problemas.
 
 #### Github do projeto - [EasyATA](https://github.com/DaviNeves0/EasyATA)
