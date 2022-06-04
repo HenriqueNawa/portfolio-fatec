@@ -25,7 +25,7 @@ Projeto em parceria com o SPC Brasil, o projeto tem o intuito de utilizar os dad
   - Biblioteca Plotly - para a criação de gráficos interativos.
 
 #### Contribuições Pessoais
-Neste projeto, atuei no Back-end do sistema e na análise e tratamento dos dados coletados para geração dos indicadores de potenciais bons clientes.
+Neste projeto, atuei no Back-end do sistema e na análise e tratamento dos dados coletados para geração dos indicadores de potenciais bons clientes, utilizando a biblioteca Pandas para a organização dos dados coletados e Plotly para a geração dos gráficos do sistema.
 
 #### Hard Skills
 - Análise de dados - sei fazer com ajuda
