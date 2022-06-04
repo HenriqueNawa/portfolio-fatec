@@ -32,14 +32,14 @@ Projeto em parceria com a Visiona Tecnologia Espacial, o projeto tem o intuito d
 - Geotools e Gdal - para trabalhar com os dados geoespaciais
 
 #### Contribuições Pessoais
-Neste projeto, atuei mais na parte de documentação do projeto e no auxílio no Back-end do sistema.
+Neste projeto, atuei mais na parte de documentação do projeto e no auxíliando na criação das funcionalidades para extração dos dados utilizando Java e Geotools.
 
 #### Hard Skills
 - Gerenciar as requisições - sei fazer com ajuda
 - Conexão com o banco de dados georreferenciados - sei fazer com ajuda
 
 #### Soft Skills
-Organização das entregas, gerenciamento de tempo e comunicação com a equipe.
+O projeto me proporcionou desenvolvimento para organização das tarefas e de tempo para que as entregas pudessem ser realizadas no tempo correto e busca de uma comunicação mais efetiva para diminuir o tempo de retrabalho nas atividades.
 
 #### Telas do sistema JumboETL
 ![](https://i.imgur.com/0AO8IiY.jpg)
