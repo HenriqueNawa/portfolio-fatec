@@ -31,6 +31,11 @@ Projeto em parceria com a GSW para a criação de um sistema de venda de veícul
 
 [OnlyMotors](https://github.com/HenriqueNawa/portfolio-fatec/blob/main/5semestre.md)
 
+### 6º Semestre 
+Projeto em parceria com a UOL para a monitoramento e alerta de indisponibilidade de um website.
+
+[Oraculum](https://github.com/HenriqueNawa/portfolio-fatec/blob/main/6semestre.md)
+
 
 ## Meus Principais Conhecimentos
 - Java
