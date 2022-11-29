@@ -1,7 +1,15 @@
-## Sobre o projeto
+#### Sobre o projeto
 
 
 Projeto em parceria com a GSW, o projeto tem como base a criação de um sistema de vendas de veículos online, onde os vendedores podem cadastrar seus veículos e gerenciar seus anúncios de forma simples e os compradores podem pesquisar pelos veículos que tem interesse e conversar diretamente com o vendedor via chat. 
+
+#### Empresa parceira
+A GSW é especializada em desenvolvimento e implantação de soluções inteligentes em Tecnologia da Informação para gestão empresarial, gestão tributária, operações em comércio exterior e CRM.
+
+Com 25 anos de experiência em projetos globais de TI e mais de 400 colaboradores espalhados por 6 unidades, a GSW oferece portfólio abrangente, construído através de sólidas alianças com empresas de soluções globais em TI, como Thomson Reuters, SAP, Microsoft, IBM, Oracle e Salesforce.
+
+A GSW tem maturidade para atender praticamente todas as demandas de seus clientes, desde desenvolvimento de software, implantação de ERP e sistemas satélites, até alocação de profissionais técnicos e funcionais.
+
 #### Lista de Requisitos
 
 Requisitos Funcionais
