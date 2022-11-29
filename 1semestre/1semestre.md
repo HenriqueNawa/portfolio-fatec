@@ -1,10 +1,17 @@
-## Sobre o projeto
+#### Sobre o projeto
 
 <p align="center">
 <img src="https://media-exp1.licdn.com/dms/image/C4D22AQFha7EM1HzsUQ/feedshare-shrink_1280/0/1574806679569?e=2147483647&v=beta&t=F5HNQY3-lg6xN7NxbtgDJIIim2JGkK1jgrgCseSrp0I" width="260">
  </p>
 
 Projeto em parceria com a Fatec, o projeto tem o intuito de monitorar e controlar um cultivo de uma planta para automatizar os cuidados com ela.<br> Foi desenvolvido um aplicativo em conjunto com hardwares (Sensores; Bomba para aquário; Lâmpada, Módulo Bluetooth) por meio dele é realizado o monitoramento da temperatura, umidade do ar, nível de água, comando de acionamento da iluminação e irrigação.
+
+#### Empresa parceira
+O Centro Paula Souza administra as Faculdades de Tecnologia (Fatecs) e Escolas Técnicas Estaduais (Etecs) nas cidades do Estado de São Paulo.<br>
+Nas Fatecs, mais de 20 mil alunos estão distribuídos em vários cursos Superiores de Graduação.<br>
+A Faculdade de Tecnologia de São José dos Campos foi criada no dia 2 de março de 2006 conforme o Decreto Nº 50.580 publicado no Diário Oficial. É uma Faculdade Pública Estadual e todos os cursos oferecidos são gratuitos. <br>
+
+
 
 #### Lista de Requisitos
 
