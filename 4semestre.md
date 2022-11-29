@@ -1,10 +1,15 @@
-## Sobre o projeto
+#### Sobre o projeto
 
 <p align="center">
  <img src='https://i.imgur.com/Zn4ICGa.png' width="300"> </p>
 
 
 Projeto em parceria com a IACIT, o projeto tem o intuito de facilitar na criação de atas de forma online com as funcionalidades de cadastro, controle de acesso, geração e monitoramento da ata de reunião com assinatura digital.
+
+#### Empresa parceira
+A IACIT é uma empresa brasileira, fundada em 1986, e com sede em São José dos Campos (SP), um dos principais polos tecnológicos do Brasil e do mundo.
+O seu portfólio abrange as áreas de Meteorologia Radar, CNS/ATM, Defesa e Segurança Pública, Telemetria e Tecnologias da Informação, Comunicação, Automação e Controle.
+Ferramentas de gestão e desenvolvimento de última geração garantem a qualidade, o elevado nível de confiabilidade e a integridade dos produtos e serviços da IACIT.
 
 #### Lista de Requisitos
 
