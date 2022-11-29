@@ -1,8 +1,11 @@
-## Sobre o projeto
+#### Sobre o projeto
 
  ![](https://i.imgur.com/GVAU8Y1.png)
 
 Projeto em parceria com a Visiona Tecnologia Espacial, o projeto tem o intuito de auxiliar os analistas GIS no gerenciamento de arquivos de dados georreferenciados no formato Shapefile. Utilizando-se da ferramenta ETL(extração, transformação e carregamento) junto a interface gráfica que permite os usuários alimentar, manipular e recuperar arquivos no formato Shapefile do banco de dados. 
+
+#### Empresa parceira
+A Visiona é uma joint-venture entre a Embraer Defesa & Segurança e a Telebras voltada para a integração de sistemas espaciais. Criada em 2012 para atender os objetivos do Programa Nacional de Atividades Espaciais (PNAE) e do Programa Estratégico de Sistemas Espaciais (PESE). A empresa foi a responsável pelo programa do Satélite Geoestacionário de Defesa e Comunicações Estratégicas, o SGDC, e é líder no mercado brasileiro de sensoriamento remoto orbital. Em 2018, a Visiona anunciou o programa do primeiro satélite desenvolvido por uma empresa privada, o VCUB, e concluiu com êxito o desenvolvimento do primeiro Sistema de Controle de Órbita e Atitude de satélites desenvolvido no Brasil.
 
 #### Lista de Requisitos
 
