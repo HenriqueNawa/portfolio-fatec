@@ -1,7 +1,11 @@
-## Sobre o projeto
+#### Sobre o projeto
 
 
 Projeto em parceria com a UOL, o projeto tem como base o monitoramento de websites e por meio de inteligência artificial prever quando um sistema irá cair para atuação preventiva, a fim de mitigar o problema de indisponibilidade.
+
+#### Empresa parceira - UOL
+A UOL é uma empresa brasileira de conteúdo, serviços e produtos de Internet, foi fundado em abril de 1996 por Luis Frias. De acordo com a Comscore, ela ocupa a terceira posição entre aqueles que operam propriedades multiplataforma na Internet do Brasil atrás do Google e Meta. Ainda de acordo com a Comscore, a UOL é o maior portal do Brasil com mais de 108 milhões de visitantes únicos por mês e 7,4 bilhões de páginas visitadas mensalmente.
+
 #### Lista de Requisitos
 
 Requisitos Funcionais
