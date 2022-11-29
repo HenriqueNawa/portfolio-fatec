@@ -1,9 +1,12 @@
-## Sobre o projeto
+#### Sobre o projeto
 
 <p align="center">
  </p>
 
 Projeto em parceria com o SPC Brasil, o projeto tem o intuito de utilizar os dados do Cadastro Positivo para gerar informações sobre os clientes potenciais para os bancos digitais.
+
+#### Empresa parceira
+O SPC Brasil é o sistema de informações das Câmaras de Dirigentes Lojistas – CDLs, constituindo-se no maior banco de dados da América Latina em informações creditícias sobre pessoas físicas e jurídicas, auxiliando na tomada de decisão para concessão de crédito pelas empresas em todo país.
 
 #### Lista de Requisitos
 
